@@ -34,8 +34,6 @@ public class BOJ_18352 {
         }
 
         dijkstra(X);
-
-
     }
 
     static void dijkstra(int start){
